@@ -1,0 +1,27 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.wrap {
+    padding: 50px;
+}
+
+button {
+    border: 1px solid rgb(99, 99, 99);
+    border-radius: 5px;
+    padding: 5px 10px;
+    color: rgb(57, 57, 57);
+    cursor: pointer;
+}
+
+h1,
+body section section,
+body section section div {
+    margin-bottom: 15px;
+}
+
+body section section div {
+    margin-top: 15px;
+}
